@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f4f4f4; }
+    h1 { color: darkblue; }
+    ul { background: white; padding: 15px; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>Here are some computer science topics:</p>
+  <ul>
+    <li>Boolean Algebra</li>
+    <li>Logic Gates</li>
+    <li>Data Structures</li>
+    <li>OOP Concepts</li>
+    <li>SQL Commands</li>
+    <li>Web Designing</li>
+  </ul>
+</body>
+</html>
